@@ -1,0 +1,271 @@
+[BLUE LINE - MAIN]
+Info: Start_Point=Dwarka Sector 21
+Info: End_Point=Noida Electronic City
+Info: First_Train=06:00
+Info: Last_Train=23:00
+Format: Station Name | Approx Time to Next | Interchange | Layout | Parking | Distance(km)
+Dwarka Sector 21 | 2 | Airport Express | Underground | Available | 1.5
+Dwarka Sector 8 | 2 | - | Elevated | Available | 1.2
+Dwarka Sector 9 | 2 | - | Elevated | Available | 1.1
+Dwarka Sector 10 | 2 | - | Elevated | Available | 1.0
+Dwarka Sector 11 | 2 | - | Elevated | Available | 1.0
+Dwarka Sector 12 | 2 | - | Elevated | Available | 1.0
+Dwarka Sector 13 | 2 | - | Elevated | Available | 1.0
+Dwarka Sector 14 | 2 | - | Elevated | Available | 1.2
+Dwarka | 2 | - | Elevated | Available | 1.1
+Dwarka Mor | 2 | - | Elevated | Available | 1.1
+Nawada | 2 | - | Elevated | Available | 1.2
+Uttam Nagar West | 2 | - | Elevated | Available | 1.0
+Uttam Nagar East | 2 | - | Elevated | Available | 1.0
+Janakpuri West | 2 | Magenta Line | Elevated | Available | 1.2
+Janakpuri East | 2 | - | Elevated | - | 1.0
+Tilak Nagar | 2 | - | Elevated | - | 1.1
+Subhash Nagar | 2 | - | Elevated | Available | 1.0
+Tagore Garden | 2 | - | Elevated | Available | 1.1
+Rajouri Garden | 2 | Pink Line | Elevated | Available | 1.1
+Ramesh Nagar | 2 | - | Elevated | Available | 1.0
+Moti Nagar | 2 | - | Elevated | Available | 1.0
+Kirti Nagar | 2 | Green Line | Elevated | Available | 1.2
+Shadipur | 2 | - | Elevated | Available | 1.1
+Patel Nagar | 2 | - | Elevated | Available | 1.3
+Rajendra Place | 2 | - | Elevated | - | 1.0
+Karol Bagh | 2 | - | Elevated | - | 1.2
+Jhandewalan | 2 | - | Elevated | Available | 1.1
+Ramakrishna Ashram Marg | 2 | - | Elevated | Available | 1.0
+Rajiv Chowk | 2 | Yellow Line | Underground | - | 1.2
+Barakhamba Road | 2 | - | Underground | - | 1.0
+Mandi House | 2 | Violet Line | Underground | - | 1.1
+Supreme Court | 2 | - | Elevated | - | 1.2
+Indraprastha | 3 | - | Elevated | Available | 1.8
+Yamuna Bank | 2 | Blue Branch Interchange | At Grade | Available | 1.5
+Akshardham | 2 | - | Elevated | Available | 1.3
+Mayur Vihar-I | 2 | Pink Line | Elevated | - | 1.2
+Mayur Vihar Extension | 2 | - | Elevated | Available | 1.1
+New Ashok Nagar | 2 | - | Elevated | Available | 1.0
+Noida Sector 15 | 2 | - | Elevated | Available | 1.2
+Noida Sector 16 | 2 | - | Elevated | Available | 1.1
+Noida Sector 18 | 2 | - | Elevated | Available | 1.1
+Botanical Garden | 2 | Magenta Line | Elevated | Available | 1.2
+Golf Course | 2 | - | Elevated | Available | 1.1
+Noida City Centre | 2 | - | Elevated | Available | 1.2
+Noida Sector 34 | 2 | - | Elevated | Available | 1.0
+Noida Sector 52 | 2 | Aqua Line | Elevated | Available | 1.2
+Noida Sector 61 | 2 | - | Elevated | Available | 1.1
+Noida Sector 59 | 2 | - | Elevated | Available | 1.0
+Noida Sector 62 | 2 | - | Elevated | Available | 1.1
+Noida Electronic City | 0 | - | Elevated | Available | 0
+
+[BLUE LINE - BRANCH]
+Info: Start_Point=Yamuna Bank
+Info: End_Point=Vaishali
+Info: First_Train=06:00
+Info: Last_Train=23:00
+Format: Station Name | Approx Time to Next | Interchange | Layout | Parking | Distance(km)
+Yamuna Bank | 2 | Blue Main Interchange | At Grade | Available | 1.5
+Laxmi Nagar | 2 | - | Elevated | Available | 1.1
+Nirman Vihar | 2 | - | Elevated | Available | 1.0
+Preet Vihar | 2 | - | Elevated | Available | 1.2
+Karkarduma | 2 | Pink Line | Elevated | Available | 1.1
+Anand Vihar ISBT | 2 | Pink Line | Elevated | Available | 1.3
+Kaushambi | 2 | - | Elevated | Available | 1.1
+Vaishali | 0 | - | Elevated | Available | 0
+
+[MAGENTA LINE]
+Info: Start_Point=Krishna Park Extension
+Info: End_Point=Botanical Garden
+Info: First_Train=06:00
+Info: Last_Train=23:00
+Format: Station Name | Approx Time to Next | Interchange | Layout | Parking | Distance(km)
+Krishna Park Extension | 2 | - | Underground | - | 1.8
+Janakpuri West | 3 | Blue Line | Underground | Available | 2.1
+Dabri Mor - Janakpuri South | 2 | - | Underground | Available | 1.5
+Dashrathpuri | 2 | - | Underground | - | 1.4
+Palam | 3 | - | Underground | Available | 1.6
+Sadar Bazar Cantonment | 3 | - | Elevated | - | 1.8
+Terminal 1-IGI Airport | 3 | - | Underground | - | 1.9
+Shankar Vihar | 3 | - | Elevated | - | 1.8
+Vasant Vihar | 3 | - | Underground | - | 2.1
+Munirka | 2 | - | Underground | Available | 1.5
+R.K. Puram | 2 | - | Underground | - | 1.3
+IIT Delhi | 2 | - | Underground | - | 1.2
+Hauz Khas | 2 | Yellow Line | Underground | Available | 1.4
+Panchsheel Park | 2 | - | Underground | Available | 1.3
+Chirag Delhi | 2 | - | Underground | - | 1.2
+Greater Kailash | 2 | - | Underground | Available | 1.1
+Nehru Enclave | 2 | - | Underground | Available | 1.2
+Kalkaji Mandir | 2 | Violet Line | Underground | Available | 1.0
+Okhla NSIC | 2 | - | Elevated | Available | 1.2
+Sukhdev Vihar | 2 | - | Elevated | Available | 1.1
+Jamia Millia Islamia | 2 | - | Elevated | Available | 1.0
+Okhla Vihar | 2 | - | Elevated | Available | 1.1
+Jasola Vihar Shaheen Bagh | 2 | - | Elevated | Available | 1.2
+Kalindi Kunj | 2 | - | Elevated | Available | 1.3
+Okhla Bird Sanctuary | 3 | - | Elevated | Available | 1.9
+Botanical Garden | 0 | Blue Line | Elevated | Available | 0
+
+
+[YELLOW LINE]
+Info: Start_Point=Samaypur Badli
+Info: End_Point=Millennium City Centre
+Info: First_Train=06:00
+Info: Last_Train=23:05
+Format: Station Name | Approx Time to Next | Interchange | Layout | Parking | Distance(km)
+Samaypur Badli | 2 | - | Elevated | Available | 1.5
+Rohini Sector 18, 19 | 2 | - | Elevated | Available | 1.2
+Haiderpur Badli Mor | 2 | Magenta Line | Elevated | Available | 1.4
+Jahangirpuri | 2 | - | Elevated | Available | 1.3
+Adarsh Nagar | 2 | - | Elevated | - | 1.1
+Azadpur | 2 | Pink Line | Elevated | Available | 1.5
+Model Town | 2 | - | Elevated | Available | 1.4
+GTB Nagar | 3 | - | Underground | Available | 1.6
+Vishwa Vidyalaya | 2 | - | Underground | Available | 1.2
+Vidhan Sabha | 2 | - | Underground | - | 1.0
+Civil Lines | 2 | - | Underground | Available | 1.2
+Kashmere Gate | 3 | Red Line | Underground | Available | 1.5
+Chandni Chowk | 2 | - | Underground | - | 1.1
+Chawri Bazar | 2 | - | Underground | - | 1.0
+New Delhi | 2 | Airport Express | Underground | Available | 1.2
+Rajiv Chowk | 2 | Blue Line | Underground | - | 1.1
+Patel Chowk | 2 | - | Underground | Available | 1.3
+Central Secretariat | 2 | Violet Line | Underground | - | 1.2
+Udyog Bhawan | 2 | - | Underground | - | 1.0
+Lok Kalyan Marg | 2 | - | Underground | - | 1.1
+Jor Bagh | 2 | - | Underground | Available | 1.2
+Dilli Haat - INA | 2 | Pink Line | Underground | Available | 1.3
+AIIMS | 2 | - | Underground | - | 1.0
+Green Park | 2 | - | Underground | Available | 1.1
+Hauz Khas | 2 | Magenta Line | Underground | Available | 1.2
+Malviya Nagar | 2 | - | Underground | Available | 1.5
+Saket | 3 | - | Underground | Available | 1.4
+Qutab Minar | 2 | - | Elevated | Available | 1.8
+Chhatarpur | 2 | - | Elevated | Available | 1.3
+Sultanpur | 2 | - | Elevated | Available | 1.6
+Ghitorni | 2 | - | Elevated | Available | 1.4
+Arjan Garh | 2 | - | Elevated | Available | 1.5
+Guru Dronacharya | 2 | - | Elevated | Available | 1.5
+Sikanderpur | 2 | Rapid Metro | Elevated | - | 1.2
+MG Road | 2 | - | Elevated | Available | 1.3
+IFFCO Chowk | 2 | - | Elevated | Available | 1.4
+Millennium City Centre | 0 | - | Elevated | Available | 0
+
+[RED LINE]
+Info: Start_Point=Rithala
+Info: End_Point=Shaheed Sthal
+Info: First_Train=06:00
+Info: Last_Train=23:00
+Format: Station Name | Approx Time to Next | Interchange | Layout | Parking | Distance(km)
+Rithala | 2 | - | Elevated | Available | 1.0
+Rohini West | 2 | - | Elevated | Available | 1.2
+Rohini East | 2 | - | Elevated | Available | 1.1
+Pitampura | 2 | - | Elevated | Available | 1.0
+Kohat Enclave | 2 | - | Elevated | Available | 1.1
+Netaji Subhash Place | 2 | Pink Line | Elevated | Available | 1.2
+Keshav Puram | 2 | - | Elevated | Available | 1.1
+Kanhaiya Nagar | 2 | - | Elevated | Available | 1.2
+Inderlok | 2 | Green Line | Elevated | Available | 1.3
+Shastri Nagar | 2 | - | Elevated | Available | 1.0
+Pratap Nagar | 2 | - | Elevated | Available | 1.2
+Pul Bangash | 2 | - | Elevated | - | 1.1
+Tis Hazari | 2 | - | Elevated | Available | 1.2
+Kashmere Gate | 3 | Yellow Line | Underground | Available | 1.5
+Shastri Park | 2 | - | At Grade | Available | 1.9
+Seelampur | 2 | - | At Grade | Available | 1.3
+Welcome | 2 | Pink Line | At Grade | Available | 1.1
+Shahdara | 2 | - | At Grade | Available | 1.2
+Mansarovar Park | 2 | - | Elevated | Available | 1.1
+Jhilmil | 2 | - | Elevated | Available | 1.0
+Dilshad Garden | 2 | - | Elevated | Available | 1.2
+Shaheed Nagar | 2 | - | Elevated | Available | 1.1
+Raj Bagh | 2 | - | Elevated | Available | 1.2
+Major Mohit Sharma | 2 | - | Elevated | Available | 1.1
+Shyam Park | 2 | - | Elevated | Available | 1.0
+Mohan Nagar | 2 | - | Elevated | Available | 1.2
+Arthala | 2 | - | Elevated | - | 1.0
+Hindon River | 2 | - | Elevated | - | 1.3
+Shaheed Sthal | 0 | - | Elevated | Available | 0
+
+[VIOLET LINE]
+Info: Start_Point=Kashmere Gate
+Info: End_Point=Raja Nahar Singh
+Info: First_Train=06:00
+Info: Last_Train=23:00
+Format: Station Name | Approx Time to Next | Interchange | Layout | Parking | Distance(km)
+Kashmere Gate | 2 | Yellow Line | Underground | Available | 1.5
+Lal Quila | 2 | - | Underground | - | 1.2
+Jama Masjid | 2 | - | Underground | - | 1.0
+Delhi Gate | 2 | - | Underground | - | 1.1
+ITO | 2 | - | Underground | Available | 1.2
+Mandi House | 2 | Blue Line | Underground | - | 1.0
+Janpath | 2 | - | Underground | - | 1.1
+Central Secretariat | 2 | Yellow Line | Underground | - | 1.2
+Khan Market | 2 | - | Underground | Available | 1.3
+Jawaharlal Nehru Stadium | 2 | - | Underground | Available | 1.2
+Jangpura | 2 | - | Underground | Available | 1.1
+Lajpat Nagar | 2 | Pink Line | Elevated | Available | 1.5
+Moolchand | 2 | - | Elevated | Available | 1.0
+Kailash Colony | 2 | - | Elevated | Available | 1.2
+Nehru Place | 2 | - | Elevated | Available | 1.1
+Kalkaji Mandir | 2 | Magenta Line | Elevated | Available | 1.0
+Govind Puri | 2 | - | Elevated | Available | 1.2
+Harkesh Nagar Okhla | 2 | - | Elevated | Available | 1.1
+Jasola Apollo | 2 | - | Elevated | Available | 1.3
+Sarita Vihar | 2 | - | Elevated | Available | 1.2
+Mohan Estate | 2 | - | Elevated | Available | 1.1
+Tughlakabad | 2 | - | Elevated | Available | 1.3
+Badarpur Border | 3 | - | Elevated | Available | 1.4
+Sarai | 2 | - | Elevated | Available | 1.2
+NHPC Chowk | 2 | - | Elevated | Available | 1.1
+Mewala Maharajpur | 2 | - | Elevated | Available | 1.2
+Sector 28 | 2 | - | Elevated | Available | 1.1
+Badkhal Mor | 2 | - | Elevated | Available | 1.3
+Old Faridabad | 2 | - | Elevated | Available | 1.2
+Neelam Chowk Ajronda | 2 | - | Elevated | Available | 1.3
+Bata Chowk | 2 | - | Elevated | Available | 1.1
+Escorts Mujesar | 2 | - | Elevated | Available | 1.4
+Sant Surdas (Sihi) | 2 | - | Elevated | Available | 1.2
+Raja Nahar Singh | 0 | - | Elevated | Available | 0
+
+[PINK LINE]
+Info: Start_Point=Majlis Park
+Info: End_Point=Shiv Vihar
+Info: First_Train=06:00
+Info: Last_Train=23:00
+Format: Station Name | Approx Time to Next | Interchange | Layout | Parking | Distance(km)
+Majlis Park | 2 | - | Elevated | Available | 1.5
+Azadpur | 3 | Yellow Line | Underground | Available | 1.8
+Shalimar Bagh | 2 | - | Underground | Available | 1.3
+Netaji Subhash Place | 2 | Red Line | Underground | Available | 1.2
+Shakurpur | 2 | - | Elevated | Available | 1.1
+Punjabi Bagh West | 2 | Green Line | Elevated | Available | 1.4
+ESI - Basaidarapur | 2 | - | Elevated | Available | 1.1
+Rajouri Garden | 2 | Blue Line | Elevated | Available | 1.2
+Mayapuri | 2 | - | Elevated | Available | 1.3
+Naraina Vihar | 2 | - | Underground | Available | 1.4
+Delhi Cantt | 3 | - | Elevated | Available | 1.8
+Durgabai Deshmukh South Campus | 2 | Airport Express | Elevated | Available | 1.5
+Sir M. Vishweshwaraiah Moti Bagh | 2 | - | Elevated | Available | 1.3
+Bhikaji Cama Place | 2 | - | Underground | Available | 1.2
+Sarojini Nagar | 2 | - | Underground | Available | 1.0
+Dilli Haat - INA | 2 | Yellow Line | Underground | Available | 1.1
+South Extension | 2 | - | Underground | Available | 1.2
+Lajpat Nagar | 2 | Violet Line | Underground | Available | 1.3
+Vinobapuri | 2 | - | Underground | - | 1.2
+Ashram | 2 | - | Underground | - | 1.1
+Sarai Kale Khan - Nizamuddin | 3 | - | Underground | Available | 1.5
+Mayur Vihar-I | 2 | Blue Line | Elevated | - | 1.6
+Mayur Vihar Pocket I | 2 | - | Elevated | Available | 1.0
+Trilokpuri - Sanjay Lake | 2 | - | Elevated | Available | 1.2
+East Vinod Nagar - Mayur Vihar-II | 2 | - | Elevated | Available | 1.1
+Mandawali - West Vinod Nagar | 2 | - | Elevated | Available | 1.0
+IP Extension | 2 | - | Elevated | Available | 1.2
+Anand Vihar ISBT | 2 | Blue Line | Elevated | Available | 1.4
+Karkarduma | 2 | Blue Line | Elevated | Available | 1.0
+Karkarduma Court | 2 | - | Elevated | Available | 1.1
+Krishna Nagar | 2 | - | Elevated | - | 1.2
+East Azad Nagar | 2 | - | Elevated | - | 1.0
+Welcome | 2 | Red Line | Elevated | Available | 1.1
+Jaffrabad | 2 | - | Elevated | - | 1.2
+Maujpur - Babarpur | 2 | - | Elevated | - | 1.1
+Gokulpuri | 2 | - | Elevated | Available | 1.2
+Johri Enclave | 2 | - | Elevated | Available | 1.1
+Shiv Vihar | 0 | - | Elevated | Available | 0
